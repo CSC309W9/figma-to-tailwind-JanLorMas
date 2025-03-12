@@ -15,8 +15,8 @@ export default function Home() {
       <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Geist'] leading-[134.20px]">BlaBla Coffe!</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Geist'] leading-[48.80px]">Your NO.1 Choice</div>
       <div className="left-[64px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Geist']">Home</div>
-      <div className="left-[270px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Geist']">Menu</div>
-      <div className="left-[476px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Geist']">Login</div>
+      <div className="left-[350px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Geist']">Menu</div>
+      <div className="left-[680px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Geist']">Login</div>
       <div className="w-[1804px] h-[102px] left-[-35px] top-[1049px] absolute bg-white" />
       <div className="left-[124px] top-[1083px] absolute justify-start text-[#db4439] text-2xl font-black font-['Geist'] leading-[29.28px]">Contact Information</div>
       <div className="left-[800px] top-[1083px] absolute justify-start text-[#db4439] text-2xl font-black font-['Geist'] leading-[29.28px]">Company Policy</div>
